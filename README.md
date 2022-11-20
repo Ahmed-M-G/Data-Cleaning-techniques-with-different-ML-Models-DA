@@ -12,10 +12,10 @@
 #### Task 2: Data quality check, does duplicate entries exit in this table? Do they have consistent values? Briefely explain your methodology and your findings within this markdown cell, and write corresponding code in the next code cell.
 
 #### Task 3: Data quality check
- - 3.1 does missing value exit in the table?
- - 3.2 Where are the missing data?
- - 3.3 How much data is missing?
- - 3.4 Are there any variables often missing together？
+  3.1 does missing value exit in the table?
+  3.2 Where are the missing data?
+  3.3 How much data is missing?
+  3.4 Are there any variables often missing together？
  
 #### Task 4: What are the potential mechnisms of the missing values? Briefely explain your methodology and your findings (within this markdown cell), and write corresponding code in the next code cell.
 
@@ -32,6 +32,3 @@
  - Decision Tree
  - XGBClassifier
  - AdaBoostClassifier
- - 
-
-  
